@@ -1,16 +1,17 @@
-# pr_3
+Subject: Flutter
 
-A new Flutter project.
+Sub Subject: Core Flutter
 
-## Getting Started
+Project Name: PR. 2 Designer
+Technologies and Tools:
+- Language: Dart language
+- Tools: Dartpad / CMD / VS Code
+Project Deliverables:
+- Complete this task using Dart.
+- Source code and documentation for the task.
+- Upload the Dart code to Github and submit the link.
+Time Duration:
+- The task is expected to be completed within approximately 3 days.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+OUTPUT :
+<img src="https://github.com/Vinisha0306/Core-flutter/assets/143987696/c27aad8f-4317-4b62-9509-f83061031405" width="250" height="550">
